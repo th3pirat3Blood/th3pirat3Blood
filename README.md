@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I am Ashish Bisht
 
-<!--
-**th3pirat3Blood/th3pirat3Blood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on High Performance Computing (HPC) and System software 
+- 📫 How to reach me: [LinkedIn profile](https://in.linkedin.com/in/ashish-bisht-399541133)
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming languages: C, C++, Python
+- Message Passing Interface (MPI)
+- OpenMP
+- High Performance Computing (HPC)
+- Linux
+- Bash
+
+## Publications
+- [A Holistic Optimisation - Success Mantra for HPC Performance](https://ieeexplore.ieee.org/abstract/document/10363565)
+
+  
